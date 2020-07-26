@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e633f41-241b-4d72-a2af-d21a8261d714" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SbDpQsBpmJbQv1gNvQTmm8egKD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ReceiptStarter">
+    <configuration name="Input_Square" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Input_Square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Receipt" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Receipt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReceiptStarter" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReceiptStarter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VariablesIntro" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VariablesIntro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="speed_converter" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speed_converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="squares" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Receipt" />
+      <item itemvalue="Python.ReceiptStarter" />
+      <item itemvalue="Python.VariablesIntro" />
+      <item itemvalue="Python.squares" />
+      <item itemvalue="Python.speed_converter" />
+      <item itemvalue="Python.Input_Square" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e633f41-241b-4d72-a2af-d21a8261d714" name="Default Changelist" comment="" />
+      <created>1561970565650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561970565650</updated>
+      <workItem from="1571823587120" duration="1286000" />
+      <workItem from="1573482410423" duration="52000" />
+      <workItem from="1573660922115" duration="61000" />
+      <workItem from="1578834479270" duration="2525000" />
+      <workItem from="1579357647909" duration="1441000" />
+      <workItem from="1593551897158" duration="8013000" />
+      <workItem from="1593980205723" duration="440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="170" key="#Input_Square" timestamp="1593682517352">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="446" y="170" key="#Input_Square/0.23.1440.825@0.23.1440.825" timestamp="1593682517352" />
+    <state x="157" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593592146209">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="157" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1593592146209" />
+    <state x="377" y="172" key="#speed_converter" timestamp="1593595407800">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="377" y="172" key="#speed_converter/0.23.1440.822@0.23.1440.822" timestamp="1593595407800" />
+    <state x="377" y="172" key="#squares" timestamp="1593593248675">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="377" y="172" key="#squares/0.23.1440.822@0.23.1440.822" timestamp="1593593248675" />
+    <state width="1229" height="135" key="GridCell.Tab.0.bottom" timestamp="1593713252664">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1229" height="135" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1593713252664" />
+    <state width="1085" height="135" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1593679717808" />
+    <state width="1229" height="135" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1593683379626" />
+    <state width="1229" height="135" key="GridCell.Tab.0.center" timestamp="1593713252663">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1229" height="135" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1593713252663" />
+    <state width="1085" height="135" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1593679717808" />
+    <state width="1229" height="135" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1593683379625" />
+    <state width="1229" height="135" key="GridCell.Tab.0.left" timestamp="1593713252663">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1229" height="135" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1593713252663" />
+    <state width="1085" height="135" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1593679717807" />
+    <state width="1229" height="135" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1593683379625" />
+    <state width="1229" height="135" key="GridCell.Tab.0.right" timestamp="1593713252664">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1229" height="135" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1593713252664" />
+    <state width="1085" height="135" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1593679717808" />
+    <state width="1229" height="135" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1593683379625" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VariablesExpressions$VariablesIntro.coverage" NAME="VariablesIntro Coverage Results" MODIFIED="1578836042121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7_VariablesExpressions$Input_Square.coverage" NAME="Input_Square Coverage Results" MODIFIED="1593682730048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7_VariablesExpressions$VariablesIntro.coverage" NAME="VariablesIntro Coverage Results" MODIFIED="1593681454898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7_VariablesExpressions$Receipt.coverage" NAME="Receipt Coverage Results" MODIFIED="1581250277047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7_VariablesExpressions$ReceiptStarter.coverage" NAME="ReceiptStarter Coverage Results" MODIFIED="1593683379619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7_VariablesExpressions$speed_converter.coverage" NAME="speed_converter Coverage Results" MODIFIED="1593595605499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7_VariablesExpressions$squares.coverage" NAME="squares Coverage Results" MODIFIED="1593594972452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

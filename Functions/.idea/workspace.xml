@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e06c731-5313-4cd5-b7b7-266a111352c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SbE0xWKXSPJ4Tes7AV0ApaPSon" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.misconception">
+    <configuration name="FunctionsDemo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/untitled1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionsDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NameMainDemo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/untitled1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NameMainDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NameMainDemo2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/untitled1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NameMainDemo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NameMainDemo3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/untitled1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NameMainDemo3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomIntDemo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/untitled1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomIntDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReceiptV2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReceiptV2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReceiptV2Starter" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReceiptV2Starter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SummedSquares" type="PythonConfigurationType" factoryName="Python">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SummedSquares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SummedSquaresStarter" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SummedSquaresStarter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VariableScope" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VariableScope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="misconception" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/untitled1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/misconception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="doctest" type="tests" factoryName="Doctests">
+      <module name="Lecture6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/untitled1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SummedSquares.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="sum_squares" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.VariableScope" />
+      <item itemvalue="Python.misconception" />
+      <item itemvalue="Python.SummedSquares" />
+      <item itemvalue="Python.ReceiptV2" />
+      <item itemvalue="Python.ReceiptV2Starter" />
+      <item itemvalue="Python.SummedSquaresStarter" />
+      <item itemvalue="Python.FunctionsDemo" />
+      <item itemvalue="Python.NameMainDemo" />
+      <item itemvalue="Python.NameMainDemo2" />
+      <item itemvalue="Python.NameMainDemo3" />
+      <item itemvalue="Python.RandomIntDemo" />
+      <item itemvalue="Python tests.doctest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ReceiptV2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e06c731-5313-4cd5-b7b7-266a111352c3" name="Default Changelist" comment="" />
+      <created>1562049007778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562049007778</updated>
+      <workItem from="1571823678045" duration="596000" />
+      <workItem from="1573482411611" duration="596000" />
+      <workItem from="1573660985886" duration="95000" />
+      <workItem from="1577961172360" duration="132000" />
+      <workItem from="1577961339179" duration="300000" />
+      <workItem from="1578837325277" duration="3262000" />
+      <workItem from="1582109009796" duration="4295000" />
+      <workItem from="1582185907402" duration="1200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="932" y="116" key="#Doctest_" timestamp="1578851077197">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="932" y="116" key="#Doctest_/0.23.1920.1002@0.23.1920.1002" timestamp="1578851077197" />
+    <state x="492" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582187406301">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="369" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1582112924049" />
+    <state x="650" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1578851039885" />
+    <state x="648" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1003@0.23.1920.1003" timestamp="1578837495171" />
+    <state x="492" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.995@0.23.1920.995" timestamp="1582187406301" />
+    <state width="746" height="214" key="GridCell.Tab.0.bottom" timestamp="1582187593075">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="942" height="214" key="GridCell.Tab.0.bottom/0.23.1280.655@0.23.1280.655" timestamp="1582120874516" />
+    <state width="631" height="214" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1582113172866" />
+    <state width="942" height="214" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1582115075349" />
+    <state width="1110" height="169" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1578851078754" />
+    <state width="1110" height="169" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1578852895342" />
+    <state width="746" height="214" key="GridCell.Tab.0.bottom/0.23.1920.995@0.23.1920.995" timestamp="1582187593075" />
+    <state width="942" height="214" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1582185310027" />
+    <state width="746" height="214" key="GridCell.Tab.0.center" timestamp="1582187593074">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="942" height="214" key="GridCell.Tab.0.center/0.23.1280.655@0.23.1280.655" timestamp="1582120874515" />
+    <state width="631" height="214" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1582113172866" />
+    <state width="942" height="214" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1582115075348" />
+    <state width="1110" height="169" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1578851078753" />
+    <state width="1110" height="169" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1578852895342" />
+    <state width="746" height="214" key="GridCell.Tab.0.center/0.23.1920.995@0.23.1920.995" timestamp="1582187593074" />
+    <state width="942" height="214" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1582185310027" />
+    <state width="746" height="214" key="GridCell.Tab.0.left" timestamp="1582187593073">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="942" height="214" key="GridCell.Tab.0.left/0.23.1280.655@0.23.1280.655" timestamp="1582120874515" />
+    <state width="631" height="214" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1582113172865" />
+    <state width="942" height="214" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1582115075348" />
+    <state width="1110" height="169" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1578851078753" />
+    <state width="1110" height="169" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1578852895339" />
+    <state width="746" height="214" key="GridCell.Tab.0.left/0.23.1920.995@0.23.1920.995" timestamp="1582187593073" />
+    <state width="942" height="214" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1582185310027" />
+    <state width="746" height="214" key="GridCell.Tab.0.right" timestamp="1582187593074">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="942" height="214" key="GridCell.Tab.0.right/0.23.1280.655@0.23.1280.655" timestamp="1582120874516" />
+    <state width="631" height="214" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1582113172866" />
+    <state width="942" height="214" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1582115075349" />
+    <state width="1110" height="169" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1578851078753" />
+    <state width="1110" height="169" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1578852895342" />
+    <state width="746" height="214" key="GridCell.Tab.0.right/0.23.1920.995@0.23.1920.995" timestamp="1582187593074" />
+    <state width="942" height="214" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1582185310027" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Functions$NameMainDemo3.coverage" NAME="NameMainDemo3 Coverage Results" MODIFIED="1578838533086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lecture6$SummedSquaresStarter.coverage" NAME="SummedSquaresStarter Coverage Results" MODIFIED="1577961438321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Functions$NameMainDemo.coverage" NAME="NameMainDemo Coverage Results" MODIFIED="1578838310134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Functions$FunctionsDemo.coverage" NAME="FunctionsDemo Coverage Results" MODIFIED="1578837778024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Functions$NameMainDemo2.coverage" NAME="NameMainDemo2 Coverage Results" MODIFIED="1578838384500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Functions$RandomIntDemo.coverage" NAME="RandomIntDemo Coverage Results" MODIFIED="1578839331130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Functions$Doctest_sum_sqaure.coverage" NAME="doctest Coverage Results" MODIFIED="1578851078745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/8_Functions$misconception.coverage" NAME="misconception Coverage Results" MODIFIED="1582187593066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8_Functions$VariableScope.coverage" NAME="VariableScope Coverage Results" MODIFIED="1582120874508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

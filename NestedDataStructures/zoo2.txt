@@ -1,0 +1,5 @@
+hansa,elephant,grass,12:00,3:00,9:00
+kandula,elephant,grass,8:00,1:00
+lumpy,tortoise,kale,11:00
+surus,elephant,grass,5:00,3:00,9:00,12:00,2:00
+grumpy,tortoise,greens,12:00,3:00,5:00
